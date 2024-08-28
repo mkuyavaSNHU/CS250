@@ -1,5 +1,7 @@
 # CS250
 
+Students will explore the stages of the Software Development Lifecycle (SDLC) through the lens of developers and testers to examine the characteristics, documentation, and purpose of each stage. Through applying SDLC stages within an agile development environment, students will learn the principles and best practices used to develop high quality software while also assessing the impact of communication, documentation, and ethics on the SDLC.
+
 1)How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 User Stories provide a simple definition of the project requirements in a way that is easy for the user to convey and for the developers to understand. Because the 	user stories follow a general format, “As a <role> I want <to be able to do something> so that <benefit>”, it is easy to determine the requirements and benefits, this assists in determining the priority of the backlog for implementation
